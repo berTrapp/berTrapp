@@ -1,12 +1,17 @@
-# 👨🏽‍💻 Bernardo Trapp
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Olá, eu sou Bernardo Trapp <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=33A2FF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Espero+que+Goste!;101010" alt="Typing SVG" />
 </p>
 
-**`Futuro Desenvolvedor Full-Stack`**
+  **`Futuro Desenvolvedor Full-Stack`**
 
-Me chamo Bernardo Trapp, tenho 16 anos e estou dando os primeiros passos no mundo do desenvolvimento. Atualmente, estou focado em aprender React com Java e PostgreSQL. Meu objetivo é continuar adquirindo conhecimentos para me tornar um desenvolvedor full-stack e criar aplicações completas e funcionais.
+<p align="center">
+  Me chamo Bernardo Trapp, tenho 16 anos e estou dando os primeiros passos no mundo do desenvolvimento. Atualmente, estou focado em aprender React com Java e PostgreSQL. Meu objetivo é continuar adquirindo conhecimentos para me tornar um desenvolvedor full-stack e criar aplicações completas e funcionais.
+</p>
 
 ## 🚀 Projetos em Destaque
 
@@ -19,17 +24,12 @@ Me chamo Bernardo Trapp, tenho 16 anos e estou dando os primeiros passos no mund
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/berTrapp?tab=repositories">
-    <img alt="Repositórios Públicos" src="https://img.shields.io/badge/Repositórios-5-%2333A2FF?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/berTrapp?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/berTrapp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  </a>
-  <a href="https://github.com/berTrapp?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/berTrapp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-</p>
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berTrapp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berTrapp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+</div>
 
 ---
 
@@ -47,9 +47,16 @@ Me chamo Bernardo Trapp, tenho 16 anos e estou dando os primeiros passos no mund
 
 ---
 
-### 📊 Estatísticas
+### 🙋‍♂️ Conecte-se comigo
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berTrapp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berTrapp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernardo-trapp-8284b82b3/">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/berTrapp">
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+  <a href="mailto:bernardo.trappp@gmail.com">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>

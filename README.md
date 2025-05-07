@@ -29,12 +29,8 @@ Atualmente, estou focado em aprender **React**, **Java** e **PostgreSQL**. Meu o
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berTrapp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berTrapp&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=6" />
-</div>
+### 📈 Estatísticas do GitHub
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berTrapp&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berTrapp&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berTrapp&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berTrapp&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berTrapp&theme=tokyonight" /> </p>
 
 ---
 

@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-Olá! Me chamo **Bernardo Trapp**, tenho 16 anos e estou dando meus primeiros passos no mundo do desenvolvimento.  
+Olá! Me chamo **Bernardo Trapp**, tenho 17 anos e estou dando meus primeiros passos no mundo do desenvolvimento.  
 Atualmente, estou focado em aprender **React**, **Java** e **PostgreSQL**. Meu objetivo é me tornar um **desenvolvedor full-stack**, capaz de criar aplicações completas, modernas e funcionais.  
 
 ---
